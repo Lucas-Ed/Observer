@@ -25,12 +25,12 @@ O padrão Observer permite que eventos sejam disparados e múltiplos "observador
 
 ### 1️⃣ Clone o repositório
 ```bash
-git clone https://github.com/SEU-USUARIO/observer-demo.git
+git clone git@github.com:Lucas-Ed/Observer.git
 ```
 
 ### 2️⃣ Entre na pasta do projeto
 ```bash
-cd observer-demo
+cd observer
 ```
 
 ### 3️⃣ Limpe e baixe as dependências
